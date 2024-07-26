@@ -1,0 +1,7 @@
+outputs
+!outputs/.keep
+bin
+!bin/.keep
+*.log
+logs
+!logs/.keep
